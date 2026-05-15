@@ -24,7 +24,7 @@ The attributes include:
 - quantity
 - total_price
 
-#⚙️ **Data Cleaning**
+# ⚙️**Data Cleaning**
 ## Missing Values: 
 Initial data screening identified 12 missing values across the dataset. To maintain data integrity and ensure the accuracy of the subsequent analysis, a listwise deletion was performed, removing all rows containing incomplete information.
 ## Duplicate Rows: 
