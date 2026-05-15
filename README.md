@@ -49,7 +49,7 @@ Los Angeles may have some issues such as few high-value transactions, the produc
 - Increase campaigns and promotions in Los Angeles.
 - Check which categories are underperforming in Los Angeles to optimize inventory or prices.
 
-### Insight 2:Shampoo and Notebook are two products that generate the most revenue.
+### Insight 2: Shampoo and Notebook are two products that generate the most revenue.
 <img width="308" height="187" alt="image" src="https://github.com/user-attachments/assets/9f643075-71ea-4a4a-a551-5eb424cf7f56" />
 
 <img width="575" height="312" alt="image" src="https://github.com/user-attachments/assets/1f5174de-118a-48b4-bb18-134bf5df6492" />
@@ -67,8 +67,10 @@ Especially, Notebooks are selling extremely well in New York (about 2.825) and O
   + Notebook in New York
   + Orange Juices in Chicago
  
-#🧩**Conclusion**
+# 🧩**Conclusion**
 Analysis of supermarket sales data reveals that business is being driven by key urban markets and "core" products, highlighting clear opportunities for regional optimization.
 Chicago and New York are currently the two leading revenue generators with stability and high market penetration. Conversely, the Los Angeles market shows a significant decline, indicating a pressing need for localized marketing strategies and a reassessment of product portfolio suitability in this region.
+
 Shampoo and Notebooks are identified as the two core revenue-generating products. The data also reveals distinct geographical preferences are New York prioritizes stationery (notebooks), while Chicago has a strong preference for beverages (Orange Juice).
+
 **Strategic direction:** To maximize profits, businesses should shift from a general approach to a localized promotion and inventory management strategy. By securing supplies for core products and implementing city-specific campaigns (e.g., notebook promotions in New York), supermarkets can optimize their supply chain and improve conversion rates across all branches.
