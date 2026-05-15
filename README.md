@@ -1,4 +1,4 @@
-🗂️**# Data Overview**
+# 🗂️ **Data Overview**
 The dataset represents transactional records from a supermarket chain with branches across three major cities: New York, Chicago, and Los Angeles. It captures details such as branch location, customer membership status, product categories, quantities purchased, and the total transaction price.
 ## Context: 
 The data captures individual sale transactions, identifying where they occurred (Branch/City), who purchased them (Customer Type), and what was bought (Product Details).
@@ -20,7 +20,7 @@ The attributes include:
 - product_category
 - quantity
 - total_price
-⚙️# Data Cleaning
+#⚙️ **Data Cleaning**
 ## Missing Values: 
 Initial data screening identified 12 missing values across the dataset. To maintain data integrity and ensure the accuracy of the subsequent analysis, a listwise deletion was performed, removing all rows containing incomplete information.
 ## Duplicate Rows: 
@@ -31,7 +31,7 @@ After cleaning, the dataset contains 239 unique records.
 The following table summarizes the central tendencies and distribution of the numerical data (Quantity and Total Price) for the 239 transactions:
 <img width="407" height="318" alt="image" src="https://github.com/user-attachments/assets/4b6a42cf-dc57-44e2-8e34-274e3d2fb284" />
 
-💡**## Key Insights**
+##💡**Key Insights**
 
 ### Insight 1: Chicago and New York are currently the two strongest markets, while Los Angeles is significant weaker.
 <img width="318" height="138" alt="image" src="https://github.com/user-attachments/assets/5269b07a-38ef-4575-9882-2d7f8b4df7c3" />
@@ -63,7 +63,7 @@ Especially, Notebooks are selling extremely well in New York (about 2.825) and O
   + Notebook in New York
   + Orange Juices in Chicago
  
-🧩# Conclusion
+#🧩**Conclusion**
 Analysis of supermarket sales data reveals that business is being driven by key urban markets and "core" products, highlighting clear opportunities for regional optimization.
 Chicago and New York are currently the two leading revenue generators with stability and high market penetration. Conversely, the Los Angeles market shows a significant decline, indicating a pressing need for localized marketing strategies and a reassessment of product portfolio suitability in this region.
 Shampoo and Notebooks are identified as the two core revenue-generating products. The data also reveals distinct geographical preferences are New York prioritizes stationery (notebooks), while Chicago has a strong preference for beverages (Orange Juice).
