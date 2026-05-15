@@ -24,12 +24,16 @@ The following table summarizes the central tendencies and distribution of the nu
 <img width="407" height="318" alt="image" src="https://github.com/user-attachments/assets/4b6a42cf-dc57-44e2-8e34-274e3d2fb284" />
 
 ## Key Insights
+
 ### Insight 1: Chicago and New York are currently the two strongest markets, while Los Angeles is significant weaker.
 <img width="318" height="138" alt="image" src="https://github.com/user-attachments/assets/5269b07a-38ef-4575-9882-2d7f8b4df7c3" />
+
 <img width="650" height="382" alt="image" src="https://github.com/user-attachments/assets/1ee5d769-40a9-46d9-8757-a56246a7d268" />
 From the chart, we can see that Chicago and New York generated nearly equivalent revenue and both outpaced Los Angeles by approximately 15%-17%. 
 Los Angeles may have some issues such as few high-value transactions, the product mix is not optimized or customers who spend less.
+
 Business Action:
 - Increase campaigns and promotions in Los Angeles.
 - Check which categories are underperforming in Los Angeles to optimize inventory or prices.
+
 ### Insight 2:
