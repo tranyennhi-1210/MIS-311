@@ -2,14 +2,17 @@
 The dataset represents transactional records from a supermarket chain with branches across three major cities: New York, Chicago, and Los Angeles. It captures details such as branch location, customer membership status, product categories, quantities purchased, and the total transaction price.
 ## Context: 
 The data captures individual sale transactions, identifying where they occurred (Branch/City), who purchased them (Customer Type), and what was bought (Product Details).
+
 ## Dimensions: 
 The raw dataset originally contained 242 rows and 8 columns.
+
 ## Attributes: 
-sale_id: Unique identifier for each transaction.
-branch & city: Geographical location of the sale.
-customer_type: Classification of the shopper (Member vs. Normal).
-product_name & product_category: Granular and high-level product classifications.
-quantity & total_price: Numerical volume and monetary value of the sale.
+- sale_id: Unique identifier for each transaction.
+- branch & city: Geographical location of the sale.
+- customer_type: Classification of the shopper (Member vs. Normal).
+- product_name & product_category: Granular and high-level product classifications.
+- quantity & total_price: Numerical volume and monetary value of the sale.
+  
 ## Columns: 
 The attributes include:
 - sale_id
@@ -20,6 +23,7 @@ The attributes include:
 - product_category
 - quantity
 - total_price
+
 #⚙️ **Data Cleaning**
 ## Missing Values: 
 Initial data screening identified 12 missing values across the dataset. To maintain data integrity and ensure the accuracy of the subsequent analysis, a listwise deletion was performed, removing all rows containing incomplete information.
