@@ -35,7 +35,7 @@ After cleaning, the dataset contains 239 unique records.
 The following table summarizes the central tendencies and distribution of the numerical data (Quantity and Total Price) for the 239 transactions:
 <img width="407" height="318" alt="image" src="https://github.com/user-attachments/assets/4b6a42cf-dc57-44e2-8e34-274e3d2fb284" />
 
-##💡**Key Insights**
+## 💡**Key Insights**
 
 ### Insight 1: Chicago and New York are currently the two strongest markets, while Los Angeles is significant weaker.
 <img width="318" height="138" alt="image" src="https://github.com/user-attachments/assets/5269b07a-38ef-4575-9882-2d7f8b4df7c3" />
