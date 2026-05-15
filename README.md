@@ -1,7 +1,10 @@
 # 🗂️ **Data Overview**
-The dataset represents transactional records from a supermarket chain with branches across three major cities: New York, Chicago, and Los Angeles. It captures details such as branch location, customer membership status, product categories, quantities purchased, and the total transaction price.
+This report analyzes the transactional data from a supermarket chain operating across three major metropolitan areas. The dataset provides a comprehensive look at consumer behavior and operational performance.
 ## Context: 
 The data captures individual sale transactions, identifying where they occurred (Branch/City), who purchased them (Customer Type), and what was bought (Product Details).
+
+## Data Source: 
+Internal sales logs covering branches in New York, Chicago, and Los Angeles.
 
 ## Dimensions: 
 The raw dataset originally contained 242 rows and 8 columns.
@@ -31,7 +34,8 @@ Initial data screening identified 12 missing values across the dataset. To maint
 The dataset was further audited for redundancy. A total of 3 duplicate records were identified and removed. This step ensures that transaction totals and frequency counts are not artificially inflated.
 ## Final Count: 
 After cleaning, the dataset contains 239 unique records.
-# Descriptive Statistics
+
+# 📊 **Descriptive Statistics**
 The following table summarizes the central tendencies and distribution of the numerical data (Quantity and Total Price) for the 239 transactions:
 <img width="407" height="318" alt="image" src="https://github.com/user-attachments/assets/4b6a42cf-dc57-44e2-8e34-274e3d2fb284" />
 
