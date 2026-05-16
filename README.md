@@ -37,6 +37,7 @@ After cleaning, the dataset contains 239 unique records.
 
 # 📊 **Descriptive Statistics**
 The following table summarizes the central tendencies and distribution of the numerical data (Quantity and Total Price) for the 239 transactions:
+
 <img width="407" height="276" alt="image" src="https://github.com/user-attachments/assets/e8899000-33bf-4c1e-a2ac-6a82ddcf26df" />
 
 ## 💡**Key Insights**
