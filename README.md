@@ -64,7 +64,7 @@ From the chart above, Shampoo and Notebook are core products of business. These 
 <img width="334" height="537" alt="image" src="https://github.com/user-attachments/assets/5b9328d0-5714-4887-ba4e-34811b9ebadc" />
 <img width="655" height="369" alt="image" src="https://github.com/user-attachments/assets/bf3ee039-5d85-4eee-afb8-02afcc40e2b5" />
 
-Especially, Notebooks are selling extremely well in New York (about 2.825) and Orange Juices is the strongest in Chicago (with 2,600) -> There is difference in preferences by city.
+Especially, Notebooks are selling extremely well in New York (about 2,825) and Orange Juices is the strongest in Chicago (with 2,600) -> There is difference in preferences by city.
 
 **Business Action:**
 - Prioritize stock for Shampoo and Notebook.
